@@ -1,0 +1,10 @@
+# One YouTube URL per line. Run: .venv/bin/python youtube.py
+https://youtu.be/a58ldGhR5wM
+https://youtu.be/D0CApSsEpLE
+https://youtu.be/RAQP5Mmke3Q
+https://youtu.be/zapY2q8LsRc
+https://youtu.be/dJUy18ss-fQ
+https://youtu.be/wTwruIlT-Ao
+https://youtu.be/ZCxQ_IhMHPY
+https://youtu.be/rnJrc1QOFME
+https://youtu.be/S7GOt85DWBs
